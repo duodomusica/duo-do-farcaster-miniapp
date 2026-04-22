@@ -1,6 +1,6 @@
 # 🎵 Dúo Dø at FarCon Rome — Farcaster Mini App
  
-> *Genre-free and in-motion music. A 45-minute onchain acoustic performance premiering at FarCon Rome.*
+> *Genre-free and in-motion music. An onchain acoustic performance premiering at FarCon Rome.*
  
 ---
  
