@@ -1,0 +1,32 @@
+{
+  "accountAssociation": {
+      "header": "eyJmaWQiOjM1NTU2NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDBhOWVkM2Q1ZkU0MTUzOTNiNjdGRWU2ZmMzNzZkODBBZGUxMDJmNTEifQ",
+      "payload": "eyJkb21haW4iOiJ2MC1kdW9kb211c2ljYS52ZXJjZWwuYXBwIn0",
+      "signature": "+VYH6vywKtqlD0KkBWAbDTr8zs6Jib0kphiQWqtIYuQoYJg1JUxUt7PZbJAE/kOgID0jSQI02mERihac02oeHhs="
+    },
+  "miniapp": {
+    "version": "1",
+    "name": "Dúo Dø at FarCon Rome",
+    "iconUrl": "https://v0-duodomusica.vercel.app/images/duo-do-cuadrada.jpeg",
+    "homeUrl": "https://v0-duodomusica.vercel.app",
+    "imageUrl": "https://v0-duodomusica.vercel.app/images/duo-do-cuadrada.jpeg",
+    "buttonTitle": "View Show Pitch",
+    "splashImageUrl": "https://v0-duodomusica.vercel.app/images/duo-do-cuadrada.jpeg",
+    "splashBackgroundColor": "#1a1a2e",
+    "subtitle": "Genre-free and in-motion music",
+    "description": "A 45-minute onchain acoustic performance by Dúo Dø. With over a decade of international performances, they invite audiences on a journey of sensations.",
+    "primaryCategory": "entertainment",
+    "tags": [
+      "music",
+      "onchain",
+      "acoustic",
+      "live-performance",
+      "web3"
+    ],
+    "heroImageUrl": "https://v0-duodomusica.vercel.app/images/duo-do-cuadrada.jpeg",
+    "tagline": "Genre-free and in-motion music",
+    "ogTitle": "Dúo Dø at FarCon Rome",
+    "ogDescription": "Genre-free and in-motion music. A 45-minute onchain acoustic performance.",
+    "ogImageUrl": "https://v0-duodomusica.vercel.app/images/duo-do-cuadrada.jpeg"
+  }
+}
